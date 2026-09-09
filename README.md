@@ -27,8 +27,8 @@ This repository is a living document of my personal development plan, structured
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/life-motoring-plan.git
-   cd life-motoring-plan
+   git clone https://github.com/yourusername/lx-life-motoring.git
+   cd lx-life-motoring
    ```
 2. Customize the markdown files to fit your own goals.
 3. Review weekly and update progress.
