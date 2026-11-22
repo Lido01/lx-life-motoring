@@ -1,15 +1,22 @@
-# Life Motoring Plan
+#### Life Motoring Plan
 
-A developer's roadmap to balanced growth — code, career, and life.
+A developer's roadmap to balanced growth — code, career, and life. 
 
-## 🧭 Overview
+#### Overview
 
-This repository is a living document of my personal development plan, structured to help software engineers navigate their careers with intention. It covers technical growth, soft skills, health, and financial well-being.
+This repository is a living document of my personal development plan, structured to help software engineers navigate their careers with intention. It covers technical growth, soft skills, health, and financial well-being. 
 
-## 📂 Structure
+#### Structure
 
-```
+Show Code
 
+Hide Code
+
+Download diagram SVG
+
+ASCII
+
+.
 ├── README.md
 ├── technical/
 │   ├── roadmap.md         # Language/framework learning path
@@ -21,70 +28,41 @@ This repository is a living document of my personal development plan, structured
 │   ├── health.md          # Fitness, sleep, and mental health
 │   └── finance.md         # Budgeting, investing, and retirement
 └── weekly/
-└── review.md          # Weekly reflections and adjustments
-
-```
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/lx-life-motoring.git
-   cd lx-life-motoring
-```
-
-2. Customize the markdown files to fit your own goals.
-3. Review weekly and update progress.
-
-✅ For Developers
-
-· Use this as a template to track your own growth.
-· Treat it like code — version control your life goals.
-· Automate reminders with cron jobs or GitHub Actions.
-
-📌 Principles
-
-· Balance — career growth shouldn't cost your health.
-· Consistency — small daily improvements compound.
-· Adaptability — plans change; update often.
-
-📬 Contributing
-
-This is a personal repo, but feel free to fork and make it your own. Suggestions via issues are welcome.
-
----
-
-Start where you are. Use what you have. Do what you can
-└── weekly/
     └── review.md          # Weekly reflections and adjustments
-```
 
-🚀 Getting Started
+Use code with caution.
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/lx-life-motoring.git
-   cd lx-life-motoring
-   ```
-2. Customize the markdown files to fit your own goals.
-3. Review weekly and update progress.
+Copy code text to clipboard.
 
-✅ For Developers
+#### Getting Started
 
-· Use this as a template to track your own growth.
-· Treat it like code — version control your life goals.
-· Automate reminders with cron jobs or GitHub Actions.
+1. **Clone the repo:** 
 
-📌 Principles
+bash
 
-· Balance — career growth shouldn't cost your health.
-· Consistency — small daily improvements compound.
-· Adaptability — plans change; update often.
+git clone https://github.com/yourusername/lx-life-motoring.git
+cd lx-life-motoring
 
-📬 Contributing
+Use code with caution.
 
-This is a personal repo, but feel free to fork and make it your own. Suggestions via issues are welcome.
+Copy code text to clipboard.
+2. **Customize:** Edit the markdown files to fit your own personal milestones.
+3. **Iterate:** Review weekly and update your progress.
 
----
+#### For Developers
+
+* **Template-driven:** Use this structure as a baseline to track your own growth.
+* **Version-controlled life:** Treat your life goals like clean production code—commit updates regularly.
+* **Automated accountability:** Set up cron jobs, script reminders, or configure GitHub Actions to prompt your weekly reviews.
+
+#### Principles
+
+* **Balance:** Career growth should never come at the cost of your health or well-being.
+* **Consistency:** Small, continuous daily deployments compound into massive long-term results.
+* **Adaptability:** Plans inevitably shift; refactor and update your roadmap often.
+
+#### Contributing
+
+This is a personal repository, but feel free to fork it and make it your own. Suggestions, ideas, or feedback via GitHub Issues are always welcome. 
 
 Start where you are. Use what you have. Do what you can.
