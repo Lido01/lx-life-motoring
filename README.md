@@ -1,6 +1,6 @@
 #### Life Motoring Plan
 
-A developer's roadmap to balanced growth — code, career, and life. 
+A developer's roadmap to balanced growth — code, career, and life. Make your journey with this simplified style based flow.
 
 #### Overview
 
